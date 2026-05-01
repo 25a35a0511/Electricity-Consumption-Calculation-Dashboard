@@ -1,11 +1,11 @@
 # ⚡ Electricity Consumption Dashboard
 
---
+
 
 ## 🎯 Project Overview
 This project is an interactive dashboard built using Python and Dash to monitor and analyze electricity consumption of different devices. It helps users track daily energy usage, compare appliances, and estimate cost based on usage.
 
---
+
 
 ## ⚙️ Tech Stack
 - Python – Core programming  
@@ -13,7 +13,6 @@ This project is an interactive dashboard built using Python and Dash to monitor 
 - Plotly Express – Data visualization  
 - Dash – Web dashboard framework  
 
---
 
 ## 🏗️ Project Architecture
 The project follows a single-file full-stack architecture using Dash, where both frontend and backend are handled in Python.
@@ -23,7 +22,6 @@ The project follows a single-file full-stack architecture using Dash, where both
 - Frontend – UI components (graphs, dropdowns)  
 - Callback system – Connects UI with backend  
 
---
 
 ## 🔄 Workflow
 
@@ -66,7 +64,7 @@ The project follows a single-file full-stack architecture using Dash, where both
 - Total energy consumption  
 - Total cost  
 
---
+
 
 ## ▶️ How to Run
 python app.py
@@ -74,7 +72,7 @@ python app.py
 Open in browser:
 http://localhost:8050
 
---
+
 
 ## 💡 Features
 - Interactive dashboard  
@@ -84,7 +82,7 @@ http://localhost:8050
 - Clean visualization  
 - Error handling  
 
---
+
 
 ## 🚀 Challenges & Solutions
 
@@ -97,7 +95,7 @@ http://localhost:8050
 **Challenge:** Interactivity  
 **Solution:** Dash callbacks for frontend-backend connection  
 
---
+
 
 ## 📈 Future Enhancements
 - Date range filter  
@@ -106,17 +104,14 @@ http://localhost:8050
 - Real-time IoT data  
 - Machine learning predictions  
 
---
+
 
 ## 🧠 Key Insight
 This is a full-stack application where Dash handles frontend rendering while Python manages backend logic and data processing.
 
---
 
 ## 🙌 Acknowledgements
 Inspired by modern data dashboards and energy monitoring systems.
-
---
 
 ## ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
