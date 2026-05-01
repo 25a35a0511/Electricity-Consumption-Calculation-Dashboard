@@ -116,7 +116,7 @@ Inspired by modern data dashboards and energy monitoring systems.
 ## ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
 
---
+
 
 ## 📜 License
 This project is open-source and available under the MIT License.
